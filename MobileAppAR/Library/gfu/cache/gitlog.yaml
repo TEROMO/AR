@@ -1,0 +1,738 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-04T14:22:49.324+05:00
+  initializedAtString: 2020-05-04T14:18:22.322+05:00
+  log:
+  - commitID: 16bea71c5588d0123bf59742f61a4160d91ab041
+    mergeA: 
+    mergeB: 
+    authorName: TEROMO
+    authorEmail: 44552193+TEROMO@users.noreply.github.com
+    commitEmail: 44552193+TEROMO@users.noreply.github.com
+    commitName: TEROMO
+    summary: 20
+    description: 
+    timeString: 2020-05-04T14:22:48.000+05:00
+    commitTimeString: 2020-05-04T14:22:48.000+05:00
+    changes:
+    - path: MobileAppAR\Library\AnnotationManager
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\AssetImportState
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\AssetImportState
+      projectPath: Library\AssetImportState
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\BuildPlayer.prefs
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\BuildPlayer.prefs
+      projectPath: Library\BuildPlayer.prefs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\BuildSettings.asset
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\BuildSettings.asset
+      projectPath: Library\BuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\EditorInstance.json
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\EditorOnlyScriptingUserSettings.json
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\EditorOnlyScriptingUserSettings.json
+      projectPath: Library\EditorOnlyScriptingUserSettings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\EditorUserSettings.asset
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\EditorUserSettings.asset
+      projectPath: Library\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Library\assetDatabase3
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: feb846c173cb9d8086a145f90a97a431ff82a052
+    mergeA: 
+    mergeB: 
+    authorName: TEROMO
+    authorEmail: 44552193+TEROMO@users.noreply.github.com
+    commitEmail: 44552193+TEROMO@users.noreply.github.com
+    commitName: TEROMO
+    summary: 1
+    description: 
+    timeString: 2020-05-04T14:21:56.000+05:00
+    commitTimeString: 2020-05-04T14:21:56.000+05:00
+    changes:
+    - path: MobileAppAR\Assets\ARButton.jpg
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARButton.jpg
+      projectPath: Assets\ARButton.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARButton.jpg.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARButton.jpg.meta
+      projectPath: Assets\ARButton.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARButtonRed.jpg
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARButtonRed.jpg
+      projectPath: Assets\ARButtonRed.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARButtonRed.jpg.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARButtonRed.jpg.meta
+      projectPath: Assets\ARButtonRed.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARMaket.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARMaket.png
+      projectPath: Assets\ARMaket.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARMaket.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARMaket.png.meta
+      projectPath: Assets\ARMaket.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARPhone.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARPhone.png
+      projectPath: Assets\ARPhone.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\ARPhone.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\ARPhone.png.meta
+      projectPath: Assets\ARPhone.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle1.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle1.png
+      projectPath: Assets\Battle1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle1.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle1.png.meta
+      projectPath: Assets\Battle1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle2.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle2.png
+      projectPath: Assets\Battle2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle2.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle2.png.meta
+      projectPath: Assets\Battle2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle3.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle3.png
+      projectPath: Assets\Battle3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle3.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle3.png.meta
+      projectPath: Assets\Battle3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle4.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle4.png
+      projectPath: Assets\Battle4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Battle4.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Battle4.png.meta
+      projectPath: Assets\Battle4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\EXITButton.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\EXITButton.png
+      projectPath: Assets\EXITButton.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\EXITButton.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\EXITButton.png.meta
+      projectPath: Assets\EXITButton.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\EXITButtonRed.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\EXITButtonRed.png
+      projectPath: Assets\EXITButtonRed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\EXITButtonRed.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\EXITButtonRed.png.meta
+      projectPath: Assets\EXITButtonRed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\INFOButton.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\INFOButton.png
+      projectPath: Assets\INFOButton.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\INFOButton.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\INFOButton.png.meta
+      projectPath: Assets\INFOButton.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\INFOButtonRed.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\INFOButtonRed.png
+      projectPath: Assets\INFOButtonRed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\INFOButtonRed.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\INFOButtonRed.png.meta
+      projectPath: Assets\INFOButtonRed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\InfoPage.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\InfoPage.png
+      projectPath: Assets\InfoPage.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\InfoPage.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\InfoPage.png.meta
+      projectPath: Assets\InfoPage.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\MaketPhoneMain.jpg
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\MaketPhoneMain.jpg
+      projectPath: Assets\MaketPhoneMain.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\MaketPhoneMain.jpg.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\MaketPhoneMain.jpg.meta
+      projectPath: Assets\MaketPhoneMain.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Resources.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Resources\VuforiaConfiguration.asset
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Resources\VuforiaConfiguration.asset
+      projectPath: Assets\Resources\VuforiaConfiguration.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Resources\VuforiaConfiguration.asset.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Resources\VuforiaConfiguration.asset.meta
+      projectPath: Assets\Resources\VuforiaConfiguration.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\ARPage.unity
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\ARPage.unity
+      projectPath: Assets\Scenes\ARPage.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\ARPage.unity.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\ARPage.unity.meta
+      projectPath: Assets\Scenes\ARPage.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\MainPage.unity
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\MainPage.unity
+      projectPath: Assets\Scenes\MainPage.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\MainPage.unity.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\MainPage.unity.meta
+      projectPath: Assets\Scenes\MainPage.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\info.unity
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\info.unity
+      projectPath: Assets\Scenes\info.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scenes\info.unity.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scenes\info.unity.meta
+      projectPath: Assets\Scenes\info.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts\Back.cs
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts\Back.cs
+      projectPath: Assets\Scripts\Back.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts\Back.cs.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts\Back.cs.meta
+      projectPath: Assets\Scripts\Back.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts\Exit.cs
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts\Exit.cs
+      projectPath: Assets\Scripts\Exit.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts\Exit.cs.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts\Exit.cs.meta
+      projectPath: Assets\Scripts\Exit.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts\Play.cs
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts\Play.cs
+      projectPath: Assets\Scripts\Play.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Assets\Scripts\Play.cs.meta
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Assets\Scripts\Play.cs.meta
+      projectPath: Assets\Scripts\Play.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: a106cf6d634cdf23ad85535a9397eb9a1fc0183c
+    mergeA: 
+    mergeB: 
+    authorName: TEROMO
+    authorEmail: 44552193+TEROMO@users.noreply.github.com
+    commitEmail: 44552193+TEROMO@users.noreply.github.com
+    commitName: TEROMO
+    summary: MainApp
+    description: 
+    timeString: 2020-05-04T14:19:36.000+05:00
+    commitTimeString: 2020-05-04T14:19:36.000+05:00
+    changes:
+    - path: MobileAppAR\Temp\UnityTempFile-84c57040d10a68f42b0fda2368d542d3
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Temp\UnityTempFile-84c57040d10a68f42b0fda2368d542d3
+      projectPath: Temp\UnityTempFile-84c57040d10a68f42b0fda2368d542d3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MobileAppAR\Temp\UnityTempFile-8bbf3deb029a7c64cb20c5629e7e785f
+      fullPath: C:\Users\user\Documents\GitHub\AR\MobileAppAR\Temp\UnityTempFile-8bbf3deb029a7c64cb20c5629e7e785f
+      projectPath: Temp\UnityTempFile-8bbf3deb029a7c64cb20c5629e7e785f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 33d0519fe4b6fdef10f64ec3eea7b8c35d5b804d
+    mergeA: 
+    mergeB: 
+    authorName: TEROMO
+    authorEmail: 44552193+TEROMO@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-04T13:47:27.000+05:00
+    commitTimeString: 2020-05-04T13:47:27.000+05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\user\Documents\GitHub\AR\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\user\Documents\GitHub\AR\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
