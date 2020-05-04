@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-04T14:21:27.443+05:00
-  initializedAtString: 2020-05-04T14:16:24.527+05:00
+  lastUpdatedAtString: 2020-05-04T16:15:30.068+05:00
+  initializedAtString: 2020-05-04T16:15:30.068+05:00
   currentGitRemote:
     name: origin
     url: https://github.com/TEROMO/AR.git
